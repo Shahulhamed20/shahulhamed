@@ -1,0 +1,40 @@
+body, h1, h2, p, ul, li{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #f0b58f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+nav ul{
+    background-color: #1b0505;
+    list-style-type: none;
+    text-align: center;
+}
+nav ul li{
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+main{
+    padding: 20px;
+}
+#about{
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+#services ul{
+    list-style-type: circle;
+    margin-left: 20px;
+}
+footer{
+    background-color: #68380c93;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
